@@ -1,0 +1,10 @@
+{
+  "icon": "azure-pipelines.svg",
+  "ui": {
+    "dashboard-tab": {
+      "title": "Azure Pipelines Agent",
+      "root": "/ui",
+      "src": "index.html"
+    }
+  }
+}
