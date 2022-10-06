@@ -1,4 +1,4 @@
-IMAGE?=docker/react-extension
+IMAGE?=sujaypillai/azure-pipelines-agent
 TAG?=latest
 
 BUILDER=buildx-multi-arch
